@@ -7,13 +7,17 @@ Christopher Turner - Wk6Challenge
  
 #### - python-api-challenge
 
-**VacationPy.ipynb**: The Jupyter notebook containing the analysis and code.
+**`VacationPy.ipynb`**: The Jupyter notebook containing the analysis and code.
 
-**WeatherPy.ipynb**: The Jupyter notebook containing the analysis and code.
+**`WeatherPy.ipynb`**: The Jupyter notebook containing the analysis and code.
 
-**output_data**: Directory containing data files.
+**output_data**: Directory containing output files from WeatherPy.
 
  - `cities.csv`: The CSV file with the city and location data used for analysis.
+ - `Fig1.png`: Scatter plot 1 - Lat vs Max Temp
+ - `Fig2.png`: Scatter plot 2 - Lat vs Humidity
+ - `Fig3.png`: Scatter plot 3 - Lat vs Cloudiness
+ - `Fig4.png`: Scatter plot 4 - Lat vs Wind Speed
 
 #### -README
 
@@ -27,7 +31,7 @@ The following Python packages are required to be installed:
 - hvplot
 - requests
 
-### Prerequisites for VacationPy
+### Prerequisites for WeatherPy
 The following Python packages are required to be installed:
 - matplotlib
 - pandas
